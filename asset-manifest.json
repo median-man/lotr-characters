@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/lotr-characters/static/js/main.30a62da2.chunk.js",
+    "main.js.map": "/lotr-characters/static/js/main.30a62da2.chunk.js.map",
+    "runtime-main.js": "/lotr-characters/static/js/runtime-main.8351d1d5.js",
+    "runtime-main.js.map": "/lotr-characters/static/js/runtime-main.8351d1d5.js.map",
+    "static/js/2.27d07ab5.chunk.js": "/lotr-characters/static/js/2.27d07ab5.chunk.js",
+    "static/js/2.27d07ab5.chunk.js.map": "/lotr-characters/static/js/2.27d07ab5.chunk.js.map",
+    "index.html": "/lotr-characters/index.html",
+    "precache-manifest.d609b4f43693c316a6447838d8bbec37.js": "/lotr-characters/precache-manifest.d609b4f43693c316a6447838d8bbec37.js",
+    "service-worker.js": "/lotr-characters/service-worker.js",
+    "static/js/2.27d07ab5.chunk.js.LICENSE.txt": "/lotr-characters/static/js/2.27d07ab5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8351d1d5.js",
+    "static/js/2.27d07ab5.chunk.js",
+    "static/js/main.30a62da2.chunk.js"
+  ]
+}
